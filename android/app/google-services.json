@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371304539348",
+    "project_id": "huntandrent-39f04",
+    "storage_bucket": "huntandrent-39f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371304539348:android:d796404b4f9d1a3b2e0741",
+        "android_client_info": {
+          "package_name": "com.mertics.hunt_and_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371304539348-7fqkbp887f8d0shl1g789jmqjjtt658l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqg-u7XJi8WOSddZwYmRg3CIOO9zWEbOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371304539348-7fqkbp887f8d0shl1g789jmqjjtt658l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

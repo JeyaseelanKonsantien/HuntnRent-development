@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>436194430883-9ocnsp1hsjutskoc8too9rnhjglkljvu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.436194430883-9ocnsp1hsjutskoc8too9rnhjglkljvu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJXTzhJw5hwcybpmI9J-9M2e34fH1VHr4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>436194430883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mertics.huntAndRent</string>
+	<key>PROJECT_ID</key>
+	<string>huntrent-62f70</string>
+	<key>STORAGE_BUCKET</key>
+	<string>huntrent-62f70.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:436194430883:ios:1397680ea40cad79729416</string>
+</dict>
+</plist>
